@@ -1,5 +1,8 @@
-# TUGAS-PBO
+# 📌 TUGAS PBO
 
-NAMA  : Erica Triana Widyastuti   
-NRP   : 5025241069    
-KELAS : PBO-B   
+## 👩‍💻 Identitas
+- **Nama**  : Erica Triana Widyastuti  
+- **NRP**   : 5025241069  
+- **Kelas** : PBO-B  
+
+---
