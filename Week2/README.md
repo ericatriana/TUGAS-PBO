@@ -21,6 +21,7 @@ Program dibagi menjadi beberapa kelas:
    - Menghitung total harga dan menampilkan hasil transaksi.  
 
 ## 📜 Code
+```java
 import java.util.Scanner;
 
 // Kelas untuk tiket
