@@ -10,7 +10,7 @@
 ## 📚 Daftar Tugas
 - [Week 1](./Week1) ⌨️ (Latihan Mengetik 10 Jari)
 - [Week 2](./Week2) 🎟️ (Tugas Membuat Code Ticket Machine)
-- [Week 3](./Week3) 
+- [Week 3](./Week3) ⏰ (Tugas Membuat Code Struktur Clock Display)
 - Week 4 (coming soon...) 💻
 
 ---
