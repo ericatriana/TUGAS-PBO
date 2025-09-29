@@ -23,6 +23,4 @@ Mahasiswa dapat mengambil mata kuliah yang diampu oleh dosen tertentu, lalu mena
 | - nip     |         | - namaMK     |        | - nim    |
 +-----------+         | - sks        |        | - listMK |
 | +getInfo()|         | - dosen      |        +----------+
-+-----------+         +--------------+        | +tambahMK|
-                                               | +getInfo()|
-                                               +----------+
++-----------+         +--------------+       
