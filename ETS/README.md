@@ -37,9 +37,11 @@ import java.util.Scanner;
 
 class VendingMachine { 
     // Atribut untuk menyimpan jenis snack, harga, dan stok
-    String[] snackTypes = {"Chitato", "Tango Wafer", "KitKat", "Oreo", "SilverQueen", "Yupi Boolicious"}; 
-    double[] snackPrices = {8000.0, 6000.0, 7000.0, 7500.0, 12000.0, 9000.0}; 
-    int[] snackStock = {8, 8, 5, 3, 2, 10}; // stok awal setiap snack
+    String[] snackTypes = {"Chitato", "Tango Wafer", "KitKat", "Oreo", "SilverQueen", "Yupi Boolicious", 
+                            "Aqua", "Coca-Cola", "Sprite", "Teh Botol Sosro", "Good Day Freeze", "Milo"}; 
+    double[] snackPrices = {8000.0, 6000.0, 7000.0, 7500.0, 12000.0, 9000.0, 
+                            5000.0, 10000.0, 9500.0, 8500.0, 9000.0, 11000.0}; 
+    int[] snackStock = {8, 8, 5, 3, 2, 10, 10, 5, 6, 4, 3, 5}; // stok awal setiap snack
     
     String[] transactionLog = new String[100]; // menyimpan riwayat transaksi
     int logCount = 0; // menghitung jumlah log
@@ -124,7 +126,7 @@ public class Main {
         while (lanjut) {
             vendingMachine.showMenu();
 
-            System.out.print("\nPilih snack (1-6) atau 0 untuk keluar: ");
+            System.out.print("\nPilih snack (1-12) atau 0 untuk keluar: ");
             int choice = scanner.nextInt();
 
             if (choice == 0) {
@@ -150,6 +152,7 @@ public class Main {
         scanner.close();
     }
 }
+
 ```
 ## 📤 Output Program
 <img width="855" height="587" alt="image" src="https://github.com/user-attachments/assets/6fc4332c-3725-4dea-b504-9cfdaff968e9" />
