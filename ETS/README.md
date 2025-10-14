@@ -152,6 +152,13 @@ public class Main {
 }
 ```
 ## 📤 Output Program
+<img width="855" height="587" alt="image" src="https://github.com/user-attachments/assets/6fc4332c-3725-4dea-b504-9cfdaff968e9" />
+
+<img width="909" height="880" alt="image" src="https://github.com/user-attachments/assets/daacce2f-26f2-42aa-8951-23d1d88dffbc" />
+
+
+
+
 
 
 
