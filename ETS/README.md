@@ -1,5 +1,5 @@
 
-# 🧾  PROGRAM VENDING SNACK MACHINE
+# 🧾  PROGRAM VENDING MACHINE
 
 ## 📖 Deskripsi
 Program ini adalah simulasi **Vending Machine** menggunakan bahasa pemrograman **Java**.
