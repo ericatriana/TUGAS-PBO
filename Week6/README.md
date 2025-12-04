@@ -106,11 +106,11 @@ public class PersonalOrganizer {
 Project Personal Organizer dengan Java menggunakan collection (ArrayList) untuk
 menyimpan data seperti Task (tugas/agenda).
 Fitur Personal Organizer:
-1. Menambahkan tugas baru
+1. Menambahkan tugas baru  
    <img width="504" height="221" alt="image" src="https://github.com/user-attachments/assets/2bd24826-54da-4add-9ebe-c5783f7221c8" />  
-2. Menampilkan daftar tugas
+2. Menampilkan daftar tugas  
    <img width="582" height="215" alt="image" src="https://github.com/user-attachments/assets/618f080a-cd2c-4f43-af47-c6d914d9516c" />  
-3. Menghapus tugas berdasarkan nomor
+3. Menghapus tugas berdasarkan nomor  
    <img width="489" height="192" alt="image" src="https://github.com/user-attachments/assets/5047c2df-cadc-42b2-bd26-eb91c65583ff" />  
 4. Keluar dari aplikasi  
    <img width="488" height="176" alt="image" src="https://github.com/user-attachments/assets/3e0d9e05-d63e-4d4f-a018-76f1cb7a5d19" />  
