@@ -13,8 +13,7 @@ Setiap ruangan dalam game memiliki kemungkinan arah perpindahan ke ruangan lain,
 Meskipun konsep eksplorasinya sederhana, game ini cukup efektif untuk memahami struktur logika pemrograman berbasis objek.
 
 ---
-
-## 🏗️ Struktur Kelas
+## 🏗️ Struktur Kelas 
 
 ### 1. **Kelas `Game`**
 Kelas **`Game`** adalah pusat dari permainan ini. Kelas ini menangani jalannya permainan, menerima input dari pemain, dan menentukan aksi yang harus dilakukan berdasarkan perintah yang diberikan oleh pemain. Bisa dibilang, kelas ini adalah otak utama dari permainan.
